@@ -16,7 +16,7 @@ deploy:
   bucket_name: "elasticbeanstalk-eu-central-1-699942661490"
   bucket_path: "docker-react"
   on:
-    repo: fredator/docker-react
+    repo: patrykpanter/docker-react
     branches:
       only:
         - master
